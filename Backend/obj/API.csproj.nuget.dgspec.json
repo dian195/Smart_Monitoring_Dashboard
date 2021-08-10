@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CUPZ\\Belajar ReactJS\\Tutor 1\\Integrasi-API\\my-app\\Backend\\API.csproj": {}
+    "D:\\CUPZ\\Belajar ReactJS\\Project\\Dashboard Smart Monitoring\\Smart_Monitoring_Dashboard\\Backend\\API.csproj": {}
   },
   "projects": {
-    "D:\\CUPZ\\Belajar ReactJS\\Tutor 1\\Integrasi-API\\my-app\\Backend\\API.csproj": {
+    "D:\\CUPZ\\Belajar ReactJS\\Project\\Dashboard Smart Monitoring\\Smart_Monitoring_Dashboard\\Backend\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CUPZ\\Belajar ReactJS\\Tutor 1\\Integrasi-API\\my-app\\Backend\\API.csproj",
+        "projectUniqueName": "D:\\CUPZ\\Belajar ReactJS\\Project\\Dashboard Smart Monitoring\\Smart_Monitoring_Dashboard\\Backend\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\CUPZ\\Belajar ReactJS\\Tutor 1\\Integrasi-API\\my-app\\Backend\\API.csproj",
+        "projectPath": "D:\\CUPZ\\Belajar ReactJS\\Project\\Dashboard Smart Monitoring\\Smart_Monitoring_Dashboard\\Backend\\API.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\CUPZ\\Belajar ReactJS\\Tutor 1\\Integrasi-API\\my-app\\Backend\\obj\\",
+        "outputPath": "D:\\CUPZ\\Belajar ReactJS\\Project\\Dashboard Smart Monitoring\\Smart_Monitoring_Dashboard\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
